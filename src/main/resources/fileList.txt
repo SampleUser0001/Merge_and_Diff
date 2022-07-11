@@ -1,0 +1,2 @@
+/home/ec2-user/environment/Merge_and_Diff/src/main/resources/list01.txt
+/home/ec2-user/environment/Merge_and_Diff/src/main/resources/list02.txt
