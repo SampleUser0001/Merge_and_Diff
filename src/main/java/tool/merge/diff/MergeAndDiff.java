@@ -56,7 +56,7 @@ public class MergeAndDiff {
         for(String word : wordList){
             builder.append(word).append("\t");
             for(List<String> list : fileWordsMap.values()){
-                builder.append(list.contains(word) ? "〇" : "×").append("\t");
+                builder.append(list.contains(word) ? "○" : "×").append("\t");
             }       
             builder.append(System.getProperty("line.separator"));
         }
